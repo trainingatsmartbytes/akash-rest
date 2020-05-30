@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88" started-at="2020-05-30T07:53:09Z" finished-at="2020-05-30T07:53:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88" started-at="2020-05-30T07:53:09Z" finished-at="2020-05-30T07:53:09Z">
+      <class name="smartbytes.akash.datadriventest.ExcelDataProviderTest">
+        <test-method status="PASS" signature="test_create_customer([Ljava.lang.Object;)[pri:0, instance:smartbytes.akash.datadriventest.ExcelDataProviderTest@55ca8de8]" name="test_create_customer" duration-ms="49" started-at="2020-05-30T07:53:09Z" data-provider="customer_data" finished-at="2020-05-30T07:53:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@670002]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_create_customer -->
+      </class> <!-- smartbytes.akash.datadriventest.ExcelDataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
