@@ -2,7 +2,7 @@ package smartbytes.akash;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;
-
+ 
 public class SmartByteUtil {
 	
 	public static final String BASE_URI="http://localhost:9090/api";

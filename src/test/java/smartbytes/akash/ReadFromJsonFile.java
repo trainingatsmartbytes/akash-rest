@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import static io.restassured.path.json.JsonPath.*;
-
+ 
 public class ReadFromJsonFile {
 	public static void main(String[] args) {
 		File booksFile=new File("./resources/books.json");
